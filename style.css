@@ -1,0 +1,11 @@
+.my-flex{
+  display: flex;
+  flex-flow: row;
+  flex-wrap: wrap;
+  gap: 3rem;
+  max-width: 1400px;
+}
+
+.bg-color{
+  background-color: rgb(240, 87, 117);
+}
